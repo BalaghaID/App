@@ -31,9 +31,9 @@ Users are invited to explore [BalaghaID](https://Balagha-ID.app), apply it to th
 
 &nbsp;
 ### 🔄 How to use
-**Option 1 (Recommended):** Download the self-contained [BalaghaID_v0.1.0.html](https://github.com/BalaghaID/App/releases/download/v0.1.0/BalaghaID_v0.1.0.html) file and open it on any modern web browser. No installation or internet connection is required. Follow the on-screen instructions to guide you through Arabic rhetorical device identification.
+**Option 1 (Recommended):** Download the self-contained [BalaghaID_v0.1.0.html](https://github.com/BalaghaID/App/releases/download/v0.1.0/BalaghaID_v0.1.0.html) file and open it on any modern web browser. **No installation or internet connection is required.** Follow the on-screen instructions to guide you through Arabic rhetorical device identification.
 
-**Option 2:** Visit the [Downloads page](https://balagha-id.app/download) for Balagha-ID to download the latest version of the app.
+**Option 2:** Visit the [Downloads page](https://balagha-id.app/download) for BalaghaID to download the latest version of the app.
 
 **Option 3:** Visit [BalaghaID.app](https://balagha-id.app) to use the tool directly online.
 
