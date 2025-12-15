@@ -13,7 +13,7 @@ Rather than relying on prior terminological knowledge, BalaghaID focuses on obse
 
 BalaghaID is configured to guide users toward principled identification of the [94 rhetorical devices](https://balagha-id.app/list) defined in the ARDT, spanning the classical domains of [ʿilm al-maʿānī](https://al-balagha.com/wiki/Encyclopedia_of_Arabic_Rhetoric#A), [ʿilm al-bayān](https://al-balagha.com/wiki/Encyclopedia_of_Arabic_Rhetoric#B), and [ʿilm al-badīʿ](https://al-balagha.com/wiki/Encyclopedia_of_Arabic_Rhetoric#C), as well as recognised [negative rhetorical effects](https://al-balagha.com/wiki/Encyclopedia_of_Arabic_Rhetoric#D).
 
-📄 Zenodo DOI: [https://github.com/BalaghaID/App/tree/v0.1.0](https://github.com/BalaghaID/App/tree/v0.1.0)
+📄 Zenodo DOI: [https://doi.org/10.5281/zenodo.17935325](https://doi.org/10.5281/zenodo.17935325)
 
 
 &nbsp;
@@ -55,16 +55,16 @@ Users are invited to explore [BalaghaID](https://Balagha-ID.app), apply it to th
 ### 🔄 Versioning
 The BalaghaID App uses **Semantic Versioning (SemVer)**:
 * [15 December 2025 - v0.1.0](https://github.com/BalaghaID/App/tree/v0.1.0)  
-First public release of the BalaghaID App on GitHub and Zenodo.
+First public release of the BalaghaID App on [GitHub](https://github.com/BalaghaID/App/tree/v0.1.0) and [Zenodo](https://doi.org/10.5281/zenodo.17935325).
 
 
 &nbsp;
 ### 📖 How to Cite
 **APA:**
-Marathe, M. (2025). BalaghaID.app: Arabic Rhetorical Device Identification with an Interactive App (v0.1.0) [Software]. Zenodo. https://github.com/BalaghaID/App/tree/v0.1.0
+Marathe, M. (2025). BalaghaID.app: Arabic Rhetorical Device Identification with an Interactive App (v0.1.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.17935325
 
 **Chicago:**
-Marathe, Mandar. 'BalaghaID.app: Arabic Rhetorical Device Identification with an Interactive App (v0.1.0)'. Software, Zenodo, 2025. https://github.com/BalaghaID/App/tree/v0.1.0
+Marathe, Mandar. 'BalaghaID.app: Arabic Rhetorical Device Identification with an Interactive App (v0.1.0)'. Software, Zenodo, 2025. https://doi.org/10.5281/zenodo.17935325
 
 **BibTeX:**
 ```bibtex
